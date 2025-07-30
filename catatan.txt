@@ -1,1 +1,2 @@
-Hari pertama belajar Git.
+Hari kedua belajar Git.
+Belajar branching dan merge.
