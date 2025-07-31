@@ -1,2 +1,2 @@
-Hari kedua belajar Git.
-Belajar branching dan merge.
+Hari keempat belajar Git.
+Belajar konflik dan cara meyelesaikannya.
