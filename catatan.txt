@@ -1,2 +1,8 @@
 Hari keempat belajar Git.
+ HEAD
 Belajar konflik dan cara meyelesaikannya.
+
+Edit versi folder clone untuk simulasi konflik.
+5913d02829b538378686f123abbb4a8d8e1ff010
+
+Jangan Menyerah Kawan 
