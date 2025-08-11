@@ -8,3 +8,4 @@ Edit versi folder clone untuk simulasi konflik.
 Jangan Menyerah Kawan
 Hari Ketujuh belajar Git.
 Belajar git diff dan git show.
+Baris uji branch
